@@ -27,7 +27,6 @@ Perseverance and attention to detail are the qualities acquired when working as 
 - bug report
 - Test scenario
 - Bug tracking
-- automated testing
 - functional testing
 
 **English Proficiency:** Pre-intermediate (read technical literature, conduct business correspondence)
