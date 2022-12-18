@@ -1,0 +1,69 @@
+body {
+    position: relative;
+    top: 5rem;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+header,
+footer {
+    background-color: deeppink;   
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 50%; 
+}
+
+header nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+header nav ul {
+    display: flex;
+    position: static;
+    flex-basis: 80%;
+    flex-direction: row;
+    justify-content: right;
+    gap: 2%;
+}
+
+header nav ul li {
+    list-style-type: none;
+    text-align: center;    
+}
+
+header nav ul li a {
+    color: wheat;
+    text-transform: uppercase;
+}
+
+main {
+    position: static;
+    background-color: ivory;
+}
+
+h1 {
+    padding-top: 1rem;
+}
+
+h2 {
+    background-color: pink;
+}
+
+.welcome {
+    text-align: center;
+}
+
+pre {
+    margin-bottom: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 0;
+}
