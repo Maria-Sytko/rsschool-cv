@@ -45,7 +45,7 @@ Perseverance and attention to detail are the qualities acquired when working as 
 **Description:** Mastering the basics of functional testing
 
 **05.12.2022** – present time Preparatory Course «JavaScript/Front-end. Stage 0»
-**[The Rolling Scopes](http://rollingscopes.com/)**
+**[The Rolling Scopes] (http://rollingscopes.com/)**
 
 **Code example**
 var color = 'pink';
